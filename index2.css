@@ -1,0 +1,28 @@
+@import url(/panels/index.html);
+html {
+    background-color: rgb(44, 44, 44);
+}
+.text {
+    position: fixed;
+    color: rgb(0, 197, 16);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn {
+    position: fixed;
+    left: 20%;
+    top: 63.996%;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    color:rgb(0, 104, 26)
+}
+.dbtn {
+    position: fixed;
+    top: 60%;
+    left: 20%;
+    border: 0.5em solid rgb(0, 161, 40);
+    background-color: rgb(0, 161, 40);
+    width: 50%;
+    height: 10%;
+    border-radius: 29px;
+}
